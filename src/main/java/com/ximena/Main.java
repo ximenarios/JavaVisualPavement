@@ -24,8 +24,8 @@ public class Main {
     private static final int IMAGE_WIDTH = 224;
     private static final int CHANNELS = 3;
     private static final int NUM_CLASSES = 15;
-    private static final int BATCH_SIZE = 32;
-    private static final int EPOCHS = 1;
+    private static final int BATCH_SIZE = 8;
+    private static final int EPOCHS = 10;
 
     public static void main(String[] args) {
         System.out.println("Starting JavaVisualPavement...");
