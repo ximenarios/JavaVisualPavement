@@ -6,7 +6,7 @@ To maintain road infrastructure in good condition, periodic evaluations are need
 
 This repository presents an adaptation of the deep learning models developed in the Visual Pavement project, originally created in Python and now built and executed entirely in Java.
 
-![VisualPav System Overview](images/visualPav_2.png)
+
 
 ## Dataset
 
