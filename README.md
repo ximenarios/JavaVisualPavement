@@ -1,7 +1,7 @@
 # JavaVisualPavement
 
-Sistema de clasificación automática de fallas superficiales en pavimentos flexibles mediante redes neuronales convolucionales (CNN) desarrolladas en Java con Deeplearning4j.
+Automated classification system for flexible pavement surface defects using convolutional neural networks (CNNs) developed in Java with Deeplearning4j.
 
-## Requisitos
+## Requirements
 - Docker Desktop
 - Java 17 / Maven
