@@ -36,6 +36,14 @@
             <artifactId>datavec-data-image</artifactId>
             <version>${dl4j.version}</version>
         </dependency>
+
+        <!-- Logger to fix SLF4J warning and format console output -->
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.4.14</version>
+        </dependency>
+        
     </dependencies>
 
     <build>
